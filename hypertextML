@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<head> 
+  <title>Transistional Image</title>
+</head>
+
+<body>
+
+<div id="img">
+  <img class="bottom" src="source tp bottom picture" />
+  <img class="top" src="source to top picture" /> 
+
+</body>
+
+</html>
